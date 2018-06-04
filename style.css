@@ -1,0 +1,49 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 10px;
+
+}
+header {
+  height: 125px;
+  display: inline-block;
+	width:100%;
+
+}
+header ul {
+  display: inline-block;
+  margin-top: 40px;
+  margin-right: 75px;
+}
+.list {
+  background-image: url("img/list-bg.png");
+  width: 901px;
+}
+footer {
+  text-align: center;
+
+}
+div section p {
+  width: 901px;
+  font-size: 18px;
+  line-height: 18px;
+  text-indent: 50px;
+  
+}
+.aboutme {
+  text-align: left;
+}
+#button {
+  float: right;
+}
+.list.list1 {
+  width: calc(50% - 10px);
+
+
+
+}
+
+.list.list2 {
+  width: calc(50% - 10px);
+
+
+}
